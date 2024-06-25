@@ -1,6 +1,6 @@
 ## Bem vindos ao meu perfil 🕶️
 
-Meu nome é Luís Gustavo de Sousa Cardozo
+*Meu nome é Luís Gustavo de Sousa Cardozo
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagdm JavaScript
