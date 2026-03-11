@@ -1,6 +1,6 @@
 ## Olá, Bem-vindo(a) ao meu perfil! 
 
-*Meu nome é Luís Cardozo
+* Meu nome é Luís Cardozo
  
 
   ### Entre em contato comigo:
